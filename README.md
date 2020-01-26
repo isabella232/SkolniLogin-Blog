@@ -1,0 +1,1 @@
+Tento repozitář obsahuje archiv blogu SkolniLogin.cz.
